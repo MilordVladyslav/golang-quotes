@@ -1,6 +1,12 @@
 # golang-quotes
 Just for fun
 
+## Setup
+
+sudo apt update && sudo apt upgrade
+sudo apt install golang-go
+go run .
+
 ## commands
 
 ### Gets:
